@@ -1,0 +1,12 @@
+# OS / User files
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Videos/
+NTUSER.*
+*.ppk
+.aws/
+.ssh/
+.vscode/

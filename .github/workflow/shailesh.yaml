@@ -1,0 +1,12 @@
+name: test-docker
+on: 
+  push: 
+    branches: 
+     - main 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: testing-command
+      run: |
+          uname -a 
